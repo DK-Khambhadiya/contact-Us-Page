@@ -137,3 +137,7 @@ body
 .btn:hover{
 	background-position: right;
 }
+
+input:invalid {
+	border-color: rgb(255, 0, 43);
+  }
